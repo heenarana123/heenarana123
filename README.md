@@ -1,4 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+
+<a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRmd2czd3d0NmNtNTdra29mZTk4YzZhbW5rdXM2ODF4NmI3bXJqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRmd2czd3d0NmNtNTdra29mZTk4YzZhbW5rdXM2ODF4NmI3bXJqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" alt="MasterHead" width="2000" height="400">
+</a>
+
 <h1 align="center">Hi 👋, I'm heena rana</h1>
 <h3 align="center">Passionate about data</h3>
 
