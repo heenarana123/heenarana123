@@ -6,8 +6,14 @@
 <h1 align="center">Hi 👋, I'm heena rana</h1>
 <h3 align="center">Passionate about data</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heenarana123&label=Profile%20views&color=0e75b6&style=flat" alt="heenarana123" /> </p>
+<div style="text-align: center;">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=heenarana123&label=Profile%20views&color=0e75b6&style=flat" alt="heenarana123" />
+</p>
+
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heenarana123" alt="heenarana123" /></a> </p>
