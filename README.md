@@ -19,8 +19,8 @@
 
 - 📫 How to reach me **hrana2020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ROMGWmHf1fZt_pnOkSM2E5MVQ4GD2p9R/view?usp=sharing](https://drive.google.com/file/d/1ROMGWmHf1fZt_pnOkSM2E5MVQ4GD2p9R/view?usp=sharing)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BViF2b7DWUEObGGI423_NEuwE8jI0L3u/view?usp=sharing](https://drive.google.com/file/d/1BViF2b7DWUEObGGI423_NEuwE8jI0L3u/view?usp=sharing)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/heena-rana-4a60b0187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/heena-rana-4a60b0187/" height="30" width="40" /></a>
