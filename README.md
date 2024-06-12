@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **data science (SQL)** and enhancing my **web development skills**.
 - 👯 I’m looking to collaborate on **any web development or data analysis project**.
 - 📫 How to reach me **Heenabarana1100@gmail.com**
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/15sEthovofWL0aJSHryFSlz7tmacJnBzi/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1JH26s-AQcz2nnoc_T74D8WGIFazw7rfM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
