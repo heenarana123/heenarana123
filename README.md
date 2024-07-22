@@ -1,6 +1,6 @@
-<a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRmd2czd3d0NmNtNTdra29mZTk4YzZhbW5rdXM2ODF4NmI3bXJqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif">
-    <img src="https://i.imgur.com/zN6WQWh.gif" alt="MasterHead" width="2000" height="400">
-</a>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Heena Rana</h1>
 <h3 align="center">Passionate about web development and data</h3>
