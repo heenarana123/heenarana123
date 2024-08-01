@@ -40,7 +40,7 @@ fields_of_interests:
     "JSIN",
   ]
 
-currently_learning: ["Java and DSA"]
+currently_learning: ["Java","DSA","data mining","software engineering","asp.net"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Book Review", "Blogging", "Arts", "Comedy"]
 ```
